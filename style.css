@@ -17,7 +17,7 @@
 
 html,
 body {
-  height: 100%;
+  height: auto;
 }
 
 .wrapper {
@@ -306,7 +306,6 @@ input[type=submit] {
     font-size: 30px;
     line-height: 49px;
     border-bottom: 3px solid #ddd; 
-<<<<<<< HEAD
   }
   
   #logo {
@@ -336,23 +335,9 @@ input[type=submit] {
     margin-top: 25px;
   }
 
+
+}
 @media only screen and (max-width: 642px min-width: 769px) {
-
-}
-=======
-}
-
-.main-section {
-  float: left;
-  width: 100%;
-  max-width: 641px;
-  padding: 30px;
-  margin: 0 0 40px;
-  background: #fff;
-  border: 1px solid #ddd;
-}
-}
-@media only screen and (max-width: 642px min-width: 769) {
   body {
     width: 100%;
   }
@@ -366,4 +351,3 @@ input[type=submit] {
     border: 1px solid #ddd;
   }
 } 
->>>>>>> 0b914b69ca1a9c9c553bef5d067d001a43876635
